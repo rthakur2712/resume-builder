@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume-builder/static/css/main.6f361bc7.css",
+    "main.js": "/resume-builder/static/js/main.a94865f8.js",
+    "static/media/NotoSans-Bold.ttf": "/resume-builder/static/media/NotoSans-Bold.23e70cfbbe0783c66804.ttf",
+    "static/media/NotoSans-SemiBold.ttf": "/resume-builder/static/media/NotoSans-SemiBold.99df72e26c72877cb1f9.ttf",
+    "static/media/NotoSans-Regular.ttf": "/resume-builder/static/media/NotoSans-Regular.eae34fa8f1e0c4c6d797.ttf",
+    "static/media/fa-solid-900.ttf": "/resume-builder/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/resume-builder/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/resume-builder/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/resume-builder/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/resume-builder/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/resume-builder/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/resume-builder/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/resume-builder/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/resume-builder/index.html",
+    "main.6f361bc7.css.map": "/resume-builder/static/css/main.6f361bc7.css.map",
+    "main.a94865f8.js.map": "/resume-builder/static/js/main.a94865f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f361bc7.css",
+    "static/js/main.a94865f8.js"
+  ]
+}
